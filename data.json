@@ -1,0 +1,553 @@
+[
+    {
+      "id": "9ee42cb0-c1eb-430b-a78b-b7d736d2ff7c",
+      "people": [
+        "Anita"
+      ],
+      "flights": [
+        {
+          "airline": "Air Europa",
+          "flight_number": "UX058",
+          "departure_date": "26-Jun",
+          "arrival_date": "27-Jun",
+          "departure_time": "13:50",
+          "departure": "GRU",
+          "destination": "MAD",
+          "arrival_time": "5:00"
+        },
+        {
+          "airline": "Air Europa",
+          "flight_number": "UX1503",
+          "departure_date": "27-Jun",
+          "arrival_date": "27-Jun",
+          "departure_time": "7:05",
+          "departure": "MAD",
+          "destination": "FRA",
+          "arrival_time": "9:45"
+        }
+      ]
+    },
+    {
+      "id": "62ecbce5-fb82-41c5-9199-0e89f6517ab0",
+      "people": [
+        "Anita"
+      ],
+      "flights": [
+        {
+          "airline": "Air Europa",
+          "flight_number": "UX1506",
+          "departure_date": "15-Jul",
+          "arrival_date": "15-Jul",
+          "departure_time": "19:10",
+          "departure": "FRA",
+          "destination": "MAD",
+          "arrival_time": "21:55"
+        },
+        {
+          "airline": "Air Europa",
+          "flight_number": "UX057",
+          "departure_date": "15-Jul",
+          "arrival_date": "16-Jul",
+          "departure_time": "23:55",
+          "departure": "MAD",
+          "destination": "GRU",
+          "arrival_time": "5:25"
+        }
+      ]
+    },
+    {
+      "id": "9a10dc8a-287a-4ce3-8bcb-8dd397ab54fd",
+      "people": [
+        "Thomas",
+        "Vivian",
+        "Serena"
+      ],
+      "flights": [
+        {
+          "airline": "Latam",
+          "flight_number": "LA5400 ",
+          "departure_date": "16-Jul",
+          "arrival_date": "16-Jul",
+          "departure_time": "7:00",
+          "departure": "GVA",
+          "destination": "MAD",
+          "arrival_time": "9:05"
+        },
+        {
+          "airline": "Latam",
+          "flight_number": "LA1525 ",
+          "departure_date": "16-Jul",
+          "arrival_date": "16-Jul",
+          "departure_time": "11:40",
+          "departure": "MAD",
+          "destination": "GRU",
+          "arrival_time": "17:35"
+        }
+      ]
+    },
+    {
+      "id": "634325c5-1175-4cc7-a318-a4deb9a95710",
+      "people": [
+        "Thomas",
+        "Vivian",
+        "Serena"
+      ],
+      "flights": [
+        {
+          "airline": "Latam",
+          "flight_number": "LA8120",
+          "departure_date": "6-Aug",
+          "arrival_date": "7-Aug",
+          "departure_time": "17:50",
+          "departure": "GRU",
+          "destination": "MAD",
+          "arrival_time": "10:10"
+        },
+        {
+          "airline": "ITA Airways",
+          "flight_number": "AZ578",
+          "departure_date": "7-Aug",
+          "arrival_date": "7-Aug",
+          "departure_time": "16:30",
+          "departure": "MAD",
+          "destination": "GRU",
+          "arrival_time": "18:00"
+        }
+      ]
+    },
+    {
+      "id": "6d71a4e9-cca5-4f92-9a6e-7c131e8eee66",
+      "people": [
+        "Thomas",
+        "Vivian",
+        "Serena"
+      ],
+      "flights": [
+        {
+          "airline": "KLM",
+          "flight_number": "KL1928",
+          "departure_date": "18-Sep",
+          "arrival_date": "18-Sep",
+          "departure_time": "7:15",
+          "departure": "GVA",
+          "destination": "AMS",
+          "arrival_time": "8:55"
+        },
+        {
+          "airline": "KLM",
+          "flight_number": "KL791",
+          "departure_date": "18-Sep",
+          "arrival_date": "18-Sep",
+          "departure_time": "12:50",
+          "departure": "AMS",
+          "destination": "GRU",
+          "arrival_time": "19:50"
+        }
+      ]
+    },
+    {
+      "id": "68fe1cb0-58a2-401f-89c0-1bcab66be15e",
+      "people": [
+        "Thomas",
+        "Vivian",
+        "Serena"
+      ],
+      "flights": [
+        {
+          "airline": "KLM",
+          "flight_number": "KL792",
+          "departure_date": "7-Oct",
+          "arrival_date": "8-Oct",
+          "departure_time": "21:45",
+          "departure": "GRU",
+          "destination": "AMS",
+          "arrival_time": "14:20"
+        },
+        {
+          "airline": "KLM",
+          "flight_number": "KL1937",
+          "departure_date": "8-Oct",
+          "arrival_date": "8-Oct",
+          "departure_time": "17:05",
+          "departure": "AMS",
+          "destination": "GVA",
+          "arrival_time": "18:35"
+        }
+      ]
+    },
+    {
+      "id": "16b3a97e-7d66-4a4d-8ee7-a462e33fcd1d",
+      "people": [
+        "Fritz"
+      ],
+      "flights": [
+        {
+          "airline": "Condor",
+          "flight_number": "DE2403",
+          "departure_date": "26-Jun",
+          "arrival_date": "27-Jun",
+          "departure_time": "19:55",
+          "departure": "YYZ",
+          "destination": "FRA",
+          "arrival_time": "9:40"
+        }
+      ]
+    },
+    {
+      "id": "3e882943-d1d2-43ef-88f1-4a3acf67e1a6",
+      "people": [
+        "Fritz"
+      ],
+      "flights": [
+        {
+          "airline": "Condor",
+          "flight_number": "DE2402",
+          "departure_date": "12-Jul",
+          "arrival_date": "12-Jul",
+          "departure_time": "15:15",
+          "departure": "FRA",
+          "destination": "YYZ",
+          "arrival_time": "17:55"
+        }
+      ]
+    },
+    {
+      "id": "e05a630d-1725-4641-9e82-bf9de8b6d16f",
+      "people": [
+        "Peter",
+        "Anne-Marie"
+      ],
+      "flights": [
+        {
+          "airline": "Latam",
+          "flight_number": "LA8070 ",
+          "departure_date": "25-Jun",
+          "arrival_date": "26-Jun",
+          "departure_time": "23:45",
+          "departure": "GRU",
+          "destination": "FRA",
+          "arrival_time": "16:25"
+        }
+      ]
+    },
+    {
+      "id": "3a8b77e4-da0e-4e52-892f-3b8bc72e85dc",
+      "people": [
+        "Franz",
+        "Janessa",
+        "Azarae"
+      ],
+      "flights": [
+        {
+          "airline": "Avianca",
+          "flight_number": "AV201",
+          "departure_date": "21-Sep",
+          "arrival_date": "22-Sep",
+          "departure_time": "23:25",
+          "departure": "YUL",
+          "destination": "BOG",
+          "arrival_time": "4:45"
+        },
+        {
+          "airline": "Avianca",
+          "flight_number": "AV185",
+          "departure_date": "22-Sep",
+          "arrival_date": "22-Sep",
+          "departure_time": "7:15",
+          "departure": "BOG",
+          "destination": "GRU",
+          "arrival_time": "15:20"
+        }
+      ]
+    },
+    {
+      "id": "e531488f-fa72-4856-ac68-686931231c17",
+      "people": [
+        "Paulo",
+        "Charlotte",
+        "Noali",
+        "James",
+        "Eliah",
+        "Anne-Marie"
+      ],
+      "flights": [
+        {
+          "airline": "Latam",
+          "flight_number": "LA8071",
+          "departure_date": "13-Jul",
+          "arrival_date": "14-Jul",
+          "departure_time": "21:30",
+          "departure": "FRA",
+          "destination": "GRU",
+          "arrival_time": "4:50"
+        }
+      ]
+    },
+    {
+      "id": "cc549d00-c8fa-413a-972c-e1c5d6fb8dc0",
+      "people": [
+        "Paulo",
+        "Charlotte",
+        "Noali",
+        "James",
+        "Eliah",
+        "Lucas",
+        "Maria"
+      ],
+      "flights": [
+        {
+          "airline": "Latam",
+          "flight_number": "LA8070 ",
+          "departure_date": "30-Jul",
+          "arrival_date": "31-Jul",
+          "departure_time": "23:45",
+          "departure": "GRU",
+          "destination": "FRA",
+          "arrival_time": "16:25"
+        }
+      ]
+    },
+    {
+      "id": "394e51eb-8f75-4e09-aabf-ed48523bc348",
+      "people": [
+        "Paulo",
+        "Charlotte",
+        "Noali",
+        "James",
+        "Eliah"
+      ],
+      "flights": [
+        {
+          "airline": "KLM",
+          "flight_number": "KL791",
+          "departure_date": "16-Sep",
+          "arrival_date": "16-Sep",
+          "departure_time": "12:50",
+          "departure": "AMS",
+          "destination": "GRU",
+          "arrival_time": "19:50"
+        }
+      ]
+    },
+    {
+      "id": "89aa78e3-f2cc-4ce4-ae82-fc0c3f2655c3",
+      "people": [
+        "Paulo",
+        "Charlotte",
+        "Noali",
+        "James",
+        "Eliah"
+      ],
+      "flights": [
+        {
+          "airline": "KLM",
+          "flight_number": "KL792",
+          "departure_date": "5-Oct",
+          "arrival_date": "6-Oct",
+          "departure_time": "21:45",
+          "departure": "GRU",
+          "destination": "AMS",
+          "arrival_time": "14:20"
+        }
+      ]
+    },
+    {
+      "id": "51ec6fb5-15a5-4b00-bb88-b06a26f1c944",
+      "people": [
+        "Finn",
+        "Lydia"
+      ],
+      "flights": [
+        {
+          "airline": "Royal Air Maroc",
+          "flight_number": "AT811",
+          "departure_date": "18-Jul",
+          "arrival_date": "18-Jul",
+          "departure_time": "17:55",
+          "departure": "FRA",
+          "destination": "CMN",
+          "arrival_time": "20:35"
+        }
+      ]
+    },
+    {
+      "id": "741d70c3-edd4-43dd-a14a-5c23e8646a7f",
+      "people": [
+        "Finn",
+        "Lydia"
+      ],
+      "flights": [
+        {
+          "airline": "Royal Air Maroc",
+          "flight_number": "AT215",
+          "departure_date": "19-Jul",
+          "arrival_date": "19-Jul",
+          "departure_time": "16:50",
+          "departure": "CMN",
+          "destination": "GRU",
+          "arrival_time": "22:30"
+        }
+      ]
+    },
+    {
+      "id": "d8922dd3-0d70-4d29-9ef4-9b5c9f6896e0",
+      "people": [
+        "Finn",
+        "Lydia"
+      ],
+      "flights": [
+        {
+          "airline": "Royal Air Maroc",
+          "flight_number": "AT214",
+          "departure_date": "15-Aug",
+          "arrival_date": "15-Aug",
+          "departure_time": "0:30",
+          "departure": "GRU",
+          "destination": "CMN",
+          "arrival_time": "13:25"
+        }
+      ]
+    },
+    {
+      "id": "e6ab8e8c-ff9b-4163-96d6-4be793c8bf5c",
+      "people": [
+        "Finn",
+        "Lydia"
+      ],
+      "flights": [
+        {
+          "airline": "Royal Air Maroc",
+          "flight_number": "AT810",
+          "departure_date": "16-Aug",
+          "arrival_date": "16-Aug",
+          "departure_time": "12:25",
+          "departure": "CMN",
+          "destination": "FRA",
+          "arrival_time": "16:55"
+        }
+      ]
+    },
+    {
+      "id": "f11b9cf4-a5b0-44e0-b27e-fd5ad73c1f95",
+      "people": [
+        "Lucas",
+        "Maria"
+      ],
+      "flights": [
+        {
+          "airline": "KLM",
+          "flight_number": "KL0791",
+          "departure_date": "23-Sep",
+          "arrival_date": "23-Sep",
+          "departure_time": "12:50",
+          "departure": "AMS",
+          "destination": "GRU",
+          "arrival_time": "19:50"
+        }
+      ]
+    },
+    {
+      "id": "4110cf8d-31dd-4e18-9703-9d8876703301",
+      "people": [
+        "Lucas",
+        "Maria"
+      ],
+      "flights": [
+        {
+          "airline": "KLM",
+          "flight_number": "KL0792",
+          "departure_date": "17-Oct",
+          "arrival_date": "18-Oct",
+          "departure_time": "21:45",
+          "departure": "GRU",
+          "destination": "AMS",
+          "arrival_time": "14:20"
+        }
+      ]
+    },
+    {
+      "id": "9ccbfd6d-1929-4687-bfbc-89d15d3d63ab",
+      "people": [
+        "Lucas",
+        "Maria"
+      ],
+      "flights": [
+        {
+          "airline": "Latam",
+          "flight_number": "LA1754",
+          "departure_date": "18-Jul",
+          "arrival_date": "18-Jul",
+          "departure_time": "6:30",
+          "departure": "FRA",
+          "destination": "MAD",
+          "arrival_time": "9:20"
+        },
+        {
+          "airline": "Latam",
+          "flight_number": "LA8075",
+          "departure_date": "18-Jul",
+          "arrival_date": "18-Jul",
+          "departure_time": "14:30",
+          "departure": "MAD",
+          "destination": "GRU",
+          "arrival_time": "20:33"
+        }
+      ]
+    },
+    {
+      "id": "3e7e72fe-cd77-46e0-9b0e-a6427b4b67d4",
+      "people": [
+        "Faith"
+      ],
+      "flights": [
+        {
+          "airline": "Arajet",
+          "flight_number": "DM5861",
+          "departure_date": "20-Sep",
+          "arrival_date": "20-Sep",
+          "departure_time": "11:40",
+          "departure": "YYZ",
+          "destination": "PUJ",
+          "arrival_time": "16:47"
+        },
+        {
+          "airline": "Arajet",
+          "flight_number": "DM6086",
+          "departure_date": "20-Sep",
+          "arrival_date": "21-Sep",
+          "departure_time": "18:03",
+          "departure": "PUJ",
+          "destination": "GRU",
+          "arrival_time": "02:15"
+        }
+      ]
+    },
+    {
+      "id": "7c96dc91-13f4-47b8-9f84-e0fc5f761161",
+      "people": [
+        "Faith"
+      ],
+      "flights": [
+        {
+          "airline": "Arajet",
+          "flight_number": "DM6023",
+          "departure_date": "29-Sep",
+          "arrival_date": "30-Sep",
+          "departure_time": "20:55",
+          "departure": "GRU",
+          "destination": "PUJ",
+          "arrival_time": "03:05"
+        },
+        {
+          "airline": "Arajet",
+          "flight_number": "DM5802",
+          "departure_date": "30-Sep",
+          "arrival_date": "30-Sep",
+          "departure_time": "06:10",
+          "departure": "PUJ",
+          "destination": "YYZ",
+          "arrival_time": "10:40"
+        }
+      ]
+    }
+  ]

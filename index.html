@@ -1,12 +1,60 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome to My GitHub Page</title>
+  <meta charset="UTF-8" />
+  <title>Flights Viewer</title>
+  <link rel="stylesheet" href="style.css" />
+
+  <!-- FullCalendar -->
+  <link href="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js"></script>
 </head>
 <body>
-  <h1>Hello, world!</h1>
-  <p>Welcome to my GitHub Pages website.</p>
+  <h1>Flights Viewer</h1>
+
+  <div class="controls">
+    <input type="text" id="searchInput" placeholder="Search by person or date..." />
+    <label><input type="checkbox" id="togglePast" /> Hide Past Flights</label>
+    <select id="sortBy">
+      <option value="dateAsc">Date Ascending</option>
+      <option value="dateDesc">Date Descending</option>
+      <option value="airline">Airline Alphabetically</option>
+      <option value="name">Names Alphabetically</option>
+    </select>
+    <button id="openCalendarBtn">📅 View Calendar</button>
+    <button id="openAddFlightBtn">WIP</button>
+  </div>
+
+  <div id="flights"></div>
+
+  <!-- Calendar Modal -->
+  <div id="calendarModal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close" id="closeCalendarBtn">&times;</span>
+      <div id="calendar"></div>
+    </div>
+  </div>
+
+  <!-- Add Flight Modal -->
+  <div id="addFlightModal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close" id="closeAddFlightBtn">&times;</span>
+      <h2>Add New Flight</h2>
+      <form id="addFlightForm">
+        <input type="text" id="personName" placeholder="Passenger name(s), comma-separated" required><br>
+        <input type="text" id="airline" placeholder="Airline" required><br>
+        <input type="text" id="flightNumber" placeholder="Flight Number" required><br>
+        <input type="text" id="departure" placeholder="Departure Airport Code" required><br>
+        <input type="text" id="destination" placeholder="Destination Airport Code" required><br>
+        <input type="text" id="departureDate" placeholder="Departure Date (e.g., 26-Jun)" required><br>
+        <input type="text" id="departureTime" placeholder="Departure Time (e.g., 13:50)" required><br>
+        <input type="text" id="arrivalDate" placeholder="Arrival Date (e.g., 27-Jun)" required><br>
+        <input type="text" id="arrivalTime" placeholder="Arrival Time (e.g., 05:00)" required><br>
+        <button type="submit">Add Flight</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
